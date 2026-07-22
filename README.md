@@ -16,6 +16,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Native-Law-Firms?style=social" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Native-Law-Firms?style=social" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/contributors/ishandutta2007/Awesome-AI-Native-Law-Firms?style=flat-square&color=orange" alt="Contributors"/>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Native-Law-Firms?style=flat-square&color=brightgreen" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>
