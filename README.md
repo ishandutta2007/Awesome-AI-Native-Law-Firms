@@ -72,7 +72,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🛠️ Dedicated AI Legal Tech & Open Law Firm Tools
 
-> Sorted by ⭐ GitHub Stars (descending). Badges link to stargazers pages.
+> ⭐ Sorted by **GitHub Stars** (descending). Star badges link to the stargazers page. Counts as of July 2026.
 
 - [![GitHub Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) **[LangChain Legal Agents](https://github.com/langchain-ai/langchain)**
   The backbone framework for building AI legal assistants — powers document Q&A, contract summarization, retrieval-augmented legal research, and multi-step reasoning pipelines.
