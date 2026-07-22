@@ -48,7 +48,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🏛️ Core Platforms — AI Native Law Firms
 
-> Sorted by company size (valuation / total funding raised), descending.
+> 📊 Sorted by **company size** (valuation / total funding raised), **descending**. Data sourced from public filings, Crunchbase, and news reports as of July 2026.
 
 | 🏢 Product | 📝 Description | 💰 Pricing | 📊 Company Size |
 |:-----------|:---------------|:-----------|:----------------|
