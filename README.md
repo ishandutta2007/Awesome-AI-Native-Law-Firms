@@ -118,12 +118,12 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ## 🤝 How to Contribute
 
-1. 🍴 Fork the repo.
-2. ✏️ Add/edit entries in `README.md` (follow existing format).
-3. 📌 Include: name, link, 1–2 sentence description, pricing info, company size, and whether it's SaaS or open-source.
-4. 🔄 Submit PR with a short explanation.
+1. 🍴 **Fork** the repo.
+2. ✏️ **Add/edit** entries in `README.md` (follow existing format).
+3. 📌 **Include**: name, link, 1–2 sentence description, pricing info, company size, and whether it's SaaS or open-source.
+4. 🔄 **Submit PR** with a short explanation.
 
-⭐ **Star the repo if you find it useful!**
+⭐ **Star the repo if you find it useful!** Every star helps this resource reach more legal tech builders.
 
 ---
 
@@ -133,6 +133,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - 🏛️ AI legal tools are **not substitutes for licensed legal advice**. Always consult qualified attorneys for legal matters.
 - 🔒 Self-hosted open-source solutions require proper security and compliance with legal standards.
 - 💰 Pricing and company size data reflects publicly available information as of July 2026 and may change.
+- ⚡ Star counts are dynamic and fetched live via shields.io badges.
 
 ---
 
