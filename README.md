@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Native-Law-Firms?style=flat-square&color=brightgreen" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 # ⚖️ Awesome AI-Native Law Firms
@@ -160,6 +161,20 @@ Combine **LangChain** or **LlamaIndex** for document RAG, **CrewAI** for multi-a
 
 **What is the difference between legal AI SaaS and AI-native law firms?**
 Legal AI SaaS sells software to legal teams on subscription. AI-native law firms (Crosby, General Legal, Moritz) deliver legal services directly to clients using AI, replacing or supplementing attorney work, typically with flat-fee or per-matter pricing models.
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Native-Law-Firms&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Native-Law-Firms&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Native-Law-Firms&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Native-Law-Firms&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
 
 ---
 
